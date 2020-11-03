@@ -50,7 +50,7 @@ nav div:hover{
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    background-color:#464646;
+    background-color:#242f44;
     margin-top: 55px;
     height: 300px;
     font-size: 3em;
@@ -126,9 +126,6 @@ footer{
     }
     footer #rights{
         display: none;
-    }
-    #banner{
-        background-image: url("pic/banner-small.jpg");
     }
 }
 
