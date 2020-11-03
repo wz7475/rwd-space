@@ -41,10 +41,26 @@ nav div:hover{
     color: #000;
 }
 
+#banner {
+    background-image: url(pic/banner-big.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color:#464646;
+    margin-top: 55px;
+    height: 300px;
+    color: #fff;
+    font-size: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
 #article{
     color: yellow;
     margin: 5%;
-    margin-top: 80px;
 }
 
 
